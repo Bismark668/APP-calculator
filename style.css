@@ -62,3 +62,18 @@
     outline: none;
     box-shadow: none !important; 
 }
+
+@media screen and (max-width:560px){
+    .main-container{
+        padding: .2rem .5rem;
+        background-color: #100d1f;
+
+    }
+    .cal-cont form input{
+        margin: 5px;
+        height: 70px;
+
+    }
+
+
+}
